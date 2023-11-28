@@ -9,7 +9,7 @@ def greet():
 
 window = tk.Tk()
 
-image_url = "https://example.com/your_image.jpg"
+image_url = https://i.imgur.com/wR2giCb.jpg
 response = requests.get(image_url)
 image = Image.open(io.BytesIO(response.content))
 
